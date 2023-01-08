@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0e0c40ea.css",
+    "main.js": "/static/js/main.285b464b.js",
+    "static/media/touring-department-background.jpg": "/static/media/touring-department-background.5483f76b305d60ed5fef.jpg",
+    "static/media/civilian-careers-background.jpg": "/static/media/civilian-careers-background.10f188b9a414d64f51ea.jpg",
+    "static/media/trading-department-background.png": "/static/media/trading-department-background.bef2a4bf582e6495ec05.png",
+    "static/media/militaryResearchDepartment-background.jpg": "/static/media/militaryResearchDepartment-background.4c6ba6974342376d7653.jpg",
+    "static/media/culture-department-background.jpg": "/static/media/culture-department-background.f0aaee60499f46ccf412.jpg",
+    "static/media/infantryDepartment-background.jpg": "/static/media/infantryDepartment-background.335dde49f3fc8b889046.jpg",
+    "static/media/industry-department-background.jpg": "/static/media/industry-department-background.1986dd932d167be2d94b.jpg",
+    "static/media/staff-background.jpg": "/static/media/staff-background.0b580497c7cfd947bb30.jpg",
+    "static/media/logisticsDepartment-background.jpg": "/static/media/logisticsDepartment-background.9c31a0e3ecc6f575065e.jpg",
+    "static/media/aerospatialDepartment-background.jpg": "/static/media/aerospatialDepartment-background.61cc10dd905b01fe855c.jpg",
+    "static/media/militaryMedicineDepartment-background.jpg": "/static/media/militaryMedicineDepartment-background.c4753153c4aef34cc68a.jpg",
+    "static/media/medicine-department-background.jpg": "/static/media/medicine-department-background.e8493efc171c30e38074.jpg",
+    "static/media/primaris-academy-background.jpg": "/static/media/primaris-academy-background.fbf484d4fbc6d458d57f.jpg",
+    "static/media/exploration-department-background.jpg": "/static/media/exploration-department-background.7129695789b9e195d728.jpg",
+    "static/media/blackOpsDivision-background.jpg": "/static/media/blackOpsDivision-background.c0d8dfb87c5a8b6b1ab5.jpg",
+    "static/media/central-administration-background.jpg": "/static/media/central-administration-background.6375e59d8a8c874a64fd.jpg",
+    "static/media/sciences-department-background.jpg": "/static/media/sciences-department-background.ce929a80ee138b03614f.jpg",
+    "static/media/militaryAcademy-background.jpg": "/static/media/militaryAcademy-background.16aadbae9f43aa71e8b6.jpg",
+    "static/media/agency-B.TTF": "/static/media/agency-B.8ea49f04bdda6f43b4c3.TTF",
+    "static/media/agency-L.TTF": "/static/media/agency-L.a28a90a7641e61e595d3.TTF",
+    "index.html": "/index.html",
+    "main.0e0c40ea.css.map": "/static/css/main.0e0c40ea.css.map",
+    "main.285b464b.js.map": "/static/js/main.285b464b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e0c40ea.css",
+    "static/js/main.285b464b.js"
+  ]
+}
