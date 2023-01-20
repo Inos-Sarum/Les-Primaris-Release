@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0e0c40ea.css",
-    "main.js": "/static/js/main.285b464b.js",
+    "main.css": "/static/css/main.b1aaec83.css",
+    "main.js": "/static/js/main.211543ef.js",
     "static/media/touring-department-background.jpg": "/static/media/touring-department-background.5483f76b305d60ed5fef.jpg",
     "static/media/civilian-careers-background.jpg": "/static/media/civilian-careers-background.10f188b9a414d64f51ea.jpg",
     "static/media/trading-department-background.png": "/static/media/trading-department-background.bef2a4bf582e6495ec05.png",
@@ -23,11 +23,11 @@
     "static/media/agency-B.TTF": "/static/media/agency-B.8ea49f04bdda6f43b4c3.TTF",
     "static/media/agency-L.TTF": "/static/media/agency-L.a28a90a7641e61e595d3.TTF",
     "index.html": "/index.html",
-    "main.0e0c40ea.css.map": "/static/css/main.0e0c40ea.css.map",
-    "main.285b464b.js.map": "/static/js/main.285b464b.js.map"
+    "main.b1aaec83.css.map": "/static/css/main.b1aaec83.css.map",
+    "main.211543ef.js.map": "/static/js/main.211543ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e0c40ea.css",
-    "static/js/main.285b464b.js"
+    "static/css/main.b1aaec83.css",
+    "static/js/main.211543ef.js"
   ]
 }
